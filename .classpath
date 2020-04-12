@@ -36,5 +36,6 @@
 	<classpathentry kind="lib" path="/Users/chawla/Downloads/jar_files/jsr305-3.0.2.jar"/>
 	<classpathentry kind="lib" path="/Users/chawla/Downloads/jar_files/partner-1.1.4.jar"/>
 	<classpathentry kind="lib" path="/Users/chawla/Downloads/jar_files/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
